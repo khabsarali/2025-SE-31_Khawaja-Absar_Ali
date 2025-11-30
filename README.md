@@ -1,91 +1,40 @@
-👋 Hi, I'm Absar Ali
-Web Developer | WordPress Expert | Software Engineering Student
+Programming Fundamentals in C++
+By Absar Ali — Student of Software Engineering
 
-Welcome to my GitHub!
-I’m Absar Ali, a professional Web Developer and WordPress Expert with years of experience building high-quality websites for both local and international clients.
+Welcome to my Programming Fundamentals in C++ repository.
+This repository contains all the tasks, assignments, and practice programs I completed while learning the basics of programming during my Software Engineering studies.
 
-⭐ About Me
+📘 About This Repository
 
-🔧 Expert in WordPress Development
+This project is a collection of well-structured C++ programs covering the foundational concepts of programming. Each file demonstrates a specific topic, logic-building exercise, or core concept commonly taught in introductory programming courses.
 
-🌍 Completed multiple projects for clients worldwide
+🧠 Concepts Covered
 
-🎨 Skilled in Elementor, custom themes, and UI/UX-focused designs
+Some of the major concepts included:
 
-🚀 Specialize in:
+Variables & Data Types
 
-Business & corporate websites
+Input & Output (I/O)
 
-E-commerce stores
+Conditional Statements
+if, else if, switch
 
-Landing pages
+Loops
+for, while, do-while
 
-Portfolio sites
+Functions (User-defined & Built-in)
 
-Site optimization & speed improvement
+Arrays (1D & 2D)
 
-SEO-integrated website development
+Strings
 
-🎓 Currently studying Software Engineering and continuously improving my development skills
+Operators
+Arithmetic, Logical, Relational
 
-💼 What I Do
+Pointers (Basics)
 
-✔️ WordPress Website Development
+OOP Introduction (if included in tasks)
 
-✔️ Custom Theme & Plugin Integration
+File Handling (optional tasks)
 
-✔️ E-Commerce (WooCommerce) Setup
-
-✔️ Responsive & Mobile-Friendly Design
-
-✔️ Speed Optimization & Performance Tuning
-
-✔️ Content Uploading & Website Management
-
-✔️ Full Website Redesigns
-
-🛠 Tech Stack
-
-WordPress
-
-HTML5 / CSS3 / JavaScript
-
-Elementor
-
-WooCommerce
-
-PHP (Basics)
-
-Figma / Adobe Tools
-
-MySQL (Basics)
-
-📂 Projects
-
-I’ve worked on a variety of websites for international and local businesses, including:
-
-🌐 Business websites
-
-🛒 E-commerce shops
-
-🧭 Travel & tourism websites
-
-🎓 Educational portals
-
-🍽 Restaurant websites
-
-🛍 Branded landing pages
-
-(Add actual project links here if you want.)
-
-📬 Contact
-
-If you'd like to work together or check out more of my work:
-
-Email: khabsarali@gmail.com
-
-GitHub: Add your GitHub profile link
-
-LinkedIn (optional): Add your LinkedIn link
-
-⭐ Feel free to explore my repositories and leave a star if you like my work!
+Each task file is named clearly so you can easily navigate and understand the logic.
